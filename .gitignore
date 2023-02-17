@@ -1,2 +1,5 @@
 /data
 /07_linear_models/data.h5
+/08_ml4t_workflow/00_data/backtest.h5
+/08_ml4t_workflow/backtrader.h5
+/08_ml4t_workflow/bt_log.csv
