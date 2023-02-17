@@ -3,3 +3,5 @@
 /08_ml4t_workflow/00_data/backtest.h5
 /08_ml4t_workflow/backtrader.h5
 /08_ml4t_workflow/bt_log.csv
+/12_gradient_boosting_machines/data/
+/19_recurrent_neural_nets/data.h5
